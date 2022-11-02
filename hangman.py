@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
-# Name: 
-# Collaborators:
-# Time spent:
+# Name: Artem Pikovets
+# Collaborators: 🐋
+# Time spent: who knows🤷
 
 # Hangman Game
 # -----------------------------------
